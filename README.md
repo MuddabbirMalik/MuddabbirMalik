@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuddabbirMalik
 - 👀 I’m interested in Web Development.
-- 💞️ I’m looking to collaborate on differnt web projects.
+- 💞️ I’m looking to collaborate on different web projects.
 - 📫 muddabbirqayum@gmail.com is my personal email address.
 
 <!---
